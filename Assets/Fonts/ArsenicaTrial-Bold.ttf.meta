@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c51051ec5f6e3d647ae0ec7dd9f76283
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Arsenica Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3d31ffa0b4fe854bb172df56f03b147, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
